@@ -13,6 +13,10 @@ g++ -o blackjack blackjack.cpp
 ./blackjack
 ```
 
+## Contribution
+
+Welcome😃
+
 ## Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
